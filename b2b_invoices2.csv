@@ -1,0 +1,10 @@
+order_date,invoice_no,customer_id,customer,product_id,product,category,segment,quantity,unit_cost,unit_price,revenue,cost,margin,ship_date
+2026-10-22,1,28,Spotless Custodians of Valleyton,3,Bright Lunch Napkins,paper & tissue,segA,6,45,63.45,380.7,270,110.7,2026-10-23
+2026-10-22,1,28,Spotless Custodians of Valleyton,17,Fresh Kitchen Towels,paper & tissue,segA,6,23,31.51,189.06,138,51.06,2026-10-23
+2026-10-22,1,28,Spotless Custodians of Valleyton,18,Polished Facial Tissues,paper & tissue,segA,3,38,51.68,155.04,114,41.04,2026-10-23
+2026-10-22,2,31,Dazzling Maintainers of Cedarfield,24,Bright Markers,office products,segB,7,34,56.1,392.7,238,154.7,2026-10-23
+2026-10-22,2,31,Dazzling Maintainers of Cedarfield,67,Gleaming Disposable Cups,breakroom supplies,segC,1,29,62.06,62.06,29,33.06,2026-10-23
+2026-10-22,2,31,Dazzling Maintainers of Cedarfield,83,Sparkling Graph Paper,copy paper,segC,2,38,60.8,121.6,76,45.6,2026-10-23
+2026-10-22,2,31,Dazzling Maintainers of Cedarfield,88,Radiant Colored Paper,copy paper,segC,1,31,48.98,48.98,31,17.98,2026-10-23
+2026-10-22,2,31,Dazzling Maintainers of Cedarfield,97,Gleaming Colored Paper,copy paper,segC,4,53,87.45,349.8,212,137.8,2026-10-23
+2026-10-22,3,41,Fresh Sanitizers of Harborridge,10,Glossy Lunch Napkins,paper & tissue,segA,58,47,64.86,3761.88,2726,1035.88,2026-10-23
