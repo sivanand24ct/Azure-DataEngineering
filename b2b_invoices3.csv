@@ -1,4 +1,0 @@
-order_date,invoice_no,customer_id,customer,product_id,product,category,segment,quantity,unit_cost,unit_price,revenue,cost,margin,ship_date
-2026-10-22,1,28,Spotless Custodians,3,Bright Lunch Napkins,paper & tissue,segA,6,45,63.45,380.7,270,110.7,2026-10-23
-2026-10-22,1,28,Spotless Custodians,17,Fresh Kitchen Towels,paper & tissue,segA,6,23,31.51,189.06,138,51.06,2026-10-23
-2026-10-22,1,28,Spotless Custodians,18,Polished Facial Tissues,paper & tissue,segA,3,38,51.68,155.04,114,41.04,2026-10-23
