@@ -12,59 +12,6 @@ order_date,invoice_no,customer_id,customer,product_id,product,category,segment,q
 2026-10-22,3,41,Fresh Sanitizers of Harborridge,20,Spotless Bathroom Tissue,paper & tissue,segA,27,21,28.14,759.78,567,192.78,2026-10-23
 2026-10-22,3,41,Fresh Sanitizers of Harborridge,40,Gleaming Recycled Paper,office products,segC,4,44,73.92,295.68,176,119.68,2026-10-23
 2026-10-22,3,41,Fresh Sanitizers of Harborridge,47,Pristine Glass Cleaner,cleaning supplies,segC,10,42,72.24,722.4,420,302.4,2026-10-23
-2026-10-22,3,41,Fresh Sanitizers of Harborridge,95,Spotless Graph Paper,copy paper,segA,71,48,67.68,4805.28,3408,1397.28,2026-10-23
-2026-10-22,3,41,Fresh Sanitizers of Harborridge,98,Radiant Letter Size Paper,copy paper,segA,51,22,29.04,1481.04,1122,359.04,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,21,Sleek Binder Clips,office products,segA,1,35,55.65,55.65,35,20.65,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,25,Spotless Binder Clips,office products,segA,4,19,29.26,117.04,76,41.04,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,28,Polished Binder Clips,office products,segA,2,15,22.8,45.6,30,15.6,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,33,Bright File Folders,office products,segA,2,20,26.4,52.8,40,12.8,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,34,Spotless Paper Clips,office products,segA,4,33,43.56,174.24,132,42.24,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,40,Gleaming Recycled Paper,office products,segA,2,44,64.68,129.36,88,41.36,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,68,Polished Coffee Beans,breakroom supplies,segB,1,6,12.48,12.48,6,6.48,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,77,Bright Microwave Popcorn,breakroom supplies,segB,1,5,9.15,9.15,5,4.15,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,83,Sparkling Graph Paper,copy paper,segA,1,38,57.38,57.38,38,19.38,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,84,Dazzling Resume Paper,copy paper,segA,3,33,48.18,144.54,99,45.54,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,85,Polished Resume Paper,copy paper,segA,3,23,34.27,102.81,69,33.81,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,86,Fresh Resume Paper,copy paper,segA,6,47,75.2,451.2,282,169.2,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,92,Immaculate Letter Size Paper,copy paper,segA,5,26,41.08,205.4,130,75.4,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,95,Spotless Graph Paper,copy paper,segA,2,48,69.6,139.2,96,43.2,2026-10-23
-2026-10-22,4,43,Bright Stewards of Bayburg,100,Sparkling Resume Paper,copy paper,segA,3,58,91.06,273.18,174,99.18,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,5,Immaculate Bathroom Tissue,paper & tissue,segA,1,39,51.09,51.09,39,12.09,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,12,Dazzling Kitchen Towels,paper & tissue,segA,4,37,53.28,213.12,148,65.12,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,17,Fresh Kitchen Towels,paper & tissue,segA,3,23,31.97,95.91,69,26.91,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,20,Spotless Bathroom Tissue,paper & tissue,segA,4,21,30.45,121.8,84,37.8,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,27,Radiant Desk Organizers,office products,segA,2,32,47.36,94.72,64,30.72,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,30,Pristine Sticky Notes,office products,segA,1,40,60,60,40,20,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,32,Spotless Highlighters,office products,segA,3,17,25.84,77.52,51,26.52,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,36,Fresh Sticky Notes,office products,segA,2,20,31.6,63.2,40,23.2,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,62,Glossy Creamers,breakroom supplies,segA,1,9,19.08,19.08,9,10.08,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,63,Immaculate Energy Drinks,breakroom supplies,segA,1,18,35.1,35.1,18,17.1,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,71,Polished Disposable Cups,breakroom supplies,segA,1,17,29.24,29.24,17,12.24,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,72,Glossy Granola Bars,breakroom supplies,segA,1,29,56.26,56.26,29,27.26,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,78,Immaculate Granola Bars,breakroom supplies,segA,1,14,27.58,27.58,14,13.58,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,84,Dazzling Resume Paper,copy paper,segA,3,33,48.84,146.52,99,47.52,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,88,Radiant Colored Paper,copy paper,segA,2,31,44.64,89.28,62,27.28,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,94,Radiant Glossy Photo Paper,copy paper,segA,4,24,36.96,147.84,96,51.84,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,97,Gleaming Colored Paper,copy paper,segA,5,53,69.43,347.15,265,82.15,2026-10-23
-2026-10-22,5,44,Polished Keepers of Harborwood,99,Radiant Glossy Photo Paper,copy paper,segA,2,41,60.68,121.36,82,39.36,2026-10-23
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,22,Polished Desk Organizers,office products,segB,1,44,74.8,74.8,44,30.8,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,24,Bright Markers,office products,segB,1,34,48.96,48.96,34,14.96,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,39,Glossy Desk Organizers,office products,segB,1,22,31.02,31.02,22,9.02,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,53,Sleek Degreaser,cleaning supplies,segC,1,46,79.58,79.58,46,33.58,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,55,Pristine Disinfectant Wipes,cleaning supplies,segC,1,54,106.38,106.38,54,52.38,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,60,Spotless Antibacterial Spray,cleaning supplies,segC,1,31,60.45,60.45,31,29.45,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,67,Gleaming Disposable Cups,breakroom supplies,segB,1,29,63.51,63.51,29,34.51,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,92,Immaculate Letter Size Paper,copy paper,segA,6,26,35.62,213.72,156,57.72,2026-11-06
-2026-10-22,6,49,Dazzling Stewards of Cedarcrest,100,Sparkling Resume Paper,copy paper,segA,10,58,75.4,754,580,174,2026-11-06
-2026-10-22,7,61,Spotless Custodians of Foresthaven,1,Glossy Roll Paper Towels,paper & tissue,segC,1,30,46.8,46.8,30,16.8,2026-10-23
-2026-10-22,7,61,Spotless Custodians of Foresthaven,18,Polished Facial Tissues,paper & tissue,segC,1,38,58.9,58.9,38,20.9,2026-10-23
-2026-10-22,7,61,Spotless Custodians of Foresthaven,30,Pristine Sticky Notes,office products,segC,1,40,62.8,62.8,40,22.8,2026-10-23
-2026-10-22,7,61,Spotless Custodians of Foresthaven,51,Sleek Antibacterial Spray,cleaning supplies,segB,1,42,83.16,83.16,42,41.16,2026-10-23
-2026-10-22,7,61,Spotless Custodians of Foresthaven,58,Sparkling Air Freshener,cleaning supplies,segB,1,22,37.84,37.84,22,15.84,2026-10-23
-2026-10-22,8,69,Pristine Sanitizers of Forestville,1,Glossy Roll Paper Towels,paper & tissue,segA,2,30,42.6,85.2,60,25.2,2026-10-23
-2026-10-22,8,69,Pristine Sanitizers of Forestville,4,Polished Bathroom Tissue,paper & tissue,segA,3,23,31.51,94.53,69,25.53,2026-10-23
-2026-10-22,8,69,Pristine Sanitizers of Forestville,7,Fresh Bathroom Tissue,paper & tissue,segA,5,17,22.61,113.05,85,28.05,2026-10-23
-2026-10-22,8,69,Pristine Sanitizers of Forestville,16,Sparkling Bathroom Tissue,paper & tissue,segA,3,19,27.36,82.08,57,25.08,2026-10-23
 2026-10-22,8,69,Pristine Sanitizers of Forestville,19,Sleek Bathroom Tissue,paper & tissue,segA,3,28,39.2,117.6,84,33.6,2026-10-23
 2026-10-22,8,69,Pristine Sanitizers of Forestville,23,Sparkling File Folders,office products,segA,1,39,61.23,61.23,39,22.23,2026-10-23
 2026-10-22,8,69,Pristine Sanitizers of Forestville,25,Spotless Binder Clips,office products,segA,1,19,28.31,28.31,19,9.31,2026-10-23
